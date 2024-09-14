@@ -80,12 +80,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 Contact
 
-For any inquiries, feel free to reach out at (jaredfurtadowork@gmail.com).
+For any inquiries, feel free to reach out at[Email](jaredfurtadowork@gmail.com).
 
 ---
 
 Happy Coding! 🎉👨‍💻👩‍💻
 
 ---
-
-Feel free to replace placeholders like `https://github.com/your-username/fast-finder-search-bar.git`, `https://your-deployed-site-link.com`, and `[your-email@example.com]` with your actual details.
